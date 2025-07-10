@@ -59,7 +59,7 @@ This project provides both technical and visual insights into the causes of empl
 
 ## 📸 Preview
 
-![Dashboard Preview](employee_attrition_dashboard.jpg)
+![Dashboard Preview](employee_attrition_dashboard.pdf.jpg)
 
 ---
 
